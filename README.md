@@ -48,5 +48,3 @@ src/
 - RAG Pipeline
 - MCP Integration
 - UI
-
-See `planning.md` and `tasks.md` for detailed architecture and task tracking.
